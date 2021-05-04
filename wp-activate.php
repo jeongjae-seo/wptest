@@ -7,7 +7,7 @@
  */
 
 define( 'WP_INSTALLING', true );
-/*주석테스트*/
+/*주석테스트1*/
 /** Sets up the WordPress Environment. */
 require __DIR__ . '/wp-load.php';
 
